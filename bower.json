@@ -1,0 +1,13 @@
+{
+  "name": "balloon-css",
+  "version": "1.0.0",
+  "description": "import of Balloon.css lets you add tooltips to elements",
+  "main": "balloon-css.html",
+  "keywords": [
+    "polymer",
+    "web-components"
+  ],
+  "dependencies": {
+    "balloon.css": "kazzkiq/balloon.css"
+  }
+}
